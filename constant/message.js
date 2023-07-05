@@ -1,0 +1,7 @@
+const MESSAGE = {
+    LOGIN_SUCCESS:"LOGIN SUCCESSFUL",
+    REGISTER_SUCCESS:"REGISTER SUCCESSFUL",
+    PROFILE_UPDATE_SUCCESS: 'Profile updated successfully'
+}
+
+export default MESSAGE
